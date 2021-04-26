@@ -1,14 +1,13 @@
 ### A glimpse of my past, present, and upcoming projects.
 
 # Current Projects In Development
----------------------------------
+_________________________________
 ### **San Francisco State's New Bursar Office Website:**
 - Developed using Drupal 8's content management system
 - Preview the website's progress [here](https://dev-sfsu-bursar.pantheonsite.io).
 
 # Finished Projects
--------------------
-
+___________________
 ### **Full Stack Photo Sharing Web App:** 
 - HTML, CSS, JavaScript, and Handlebars for frontend
 - Node.js and Express.js for the backend
@@ -17,7 +16,7 @@
 - [Demo Video](https://www.youtube.com/watch?v=Yx6SXT3NKZw)
 
 # Upcoming Projects
--------------------
+___________________
 ### **Product/Services Listing Web App:**
 - React.js for the frontend
 - Java Spark framework and Websocket for the backend
