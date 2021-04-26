@@ -1,5 +1,5 @@
-### Thomas Nguyen Portfolio Page
-A glimpse of the projects I've completed and am working on currently.
+### A glimpse of past, present, and upcoming projects
+
 
 
 ## Current Projects In Development
