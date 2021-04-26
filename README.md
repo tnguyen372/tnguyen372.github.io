@@ -1,4 +1,4 @@
-### A glimpse of past, present, and upcoming projects
+# A glimpse of my past, present, and upcoming projects.
 
 
 
