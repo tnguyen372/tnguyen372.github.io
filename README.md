@@ -12,8 +12,8 @@ Full Stack Photo Sharing Web App:
 - HTML, CSS, JavaScript, and Handlebars for frontend
 - Node.js and Express.js for the backend
 - MySQL for the database
-- [Source Code] (https://github.com/tnguyen372/Photo-Sharing-Website)
-- [Demo Video] (https://www.youtube.com/watch?v=Yx6SXT3NKZw)
+- [Source Code](https://github.com/tnguyen372/Photo-Sharing-Website)
+- [Demo Video](https://www.youtube.com/watch?v=Yx6SXT3NKZw)
 
 ## Upcoming Projects
 Product/Services Listing Web App:
