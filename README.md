@@ -12,7 +12,7 @@ ___________________
 - Developed using Drupal 8's content management system
 - [Old website](https://bursar.sfsu.edu) for comparison
 
-### **[Full-Stack Product/Services Listing Web App](https://github.com/tnguyen372/Product-Listing-Website):**
+### **[Full-Stack Product/Service Listing Web App](https://github.com/tnguyen372/Product-Listing-Website):**
 - React and Bootstrap for the frontend
 - Java Spark framework and WebSocket for the backend. Uses simple REST API
 - MongoDB for the database
