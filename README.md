@@ -18,7 +18,7 @@ ___________________
 - MongoDB for the database
 
 ### **[COVID-19 Cases Visualizer iOS App](https://github.com/tnguyen372/covid19-cases-visualizer):**
-- Swift and SwiftUI Charts used to build entire app
+- Swift and SwiftUI Charts used to build app following MVC Architecture
 - Uses API provided by [covid19api.com](https://covid19api.com)
 - API Data is sourced from the [Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
 
