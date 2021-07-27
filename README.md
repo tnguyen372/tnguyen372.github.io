@@ -8,7 +8,7 @@ _________________________________
 
 # Finished Projects
 ___________________
-### **[San Francisco State's New Bursar Office Website](https://dev-sfsu-bursar.pantheonsite.io):**
+### **[San Francisco State's New Bursar Office Website](https://dev-sfsu-bursar.pantheonsite.io/home):**
 - Developed using Drupal 8's content management system
 - [Old website](https://bursar.sfsu.edu) for comparison
 
