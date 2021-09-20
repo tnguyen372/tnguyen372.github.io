@@ -1,10 +1,15 @@
-### A Quick Glimpse of My Past and Current Projects.
+### Thomas Nguyen's Portfolio Website.
 
-# Current Projects In Development
+# Current Projects in Development
 _________________________________
 ### Portfolio Website
-- Hosted on a cloud service like AWS to learn about the cloud
-- Will build from scratch to create a dynamic website instead of using a static GitHub page
+- Working on hosting my portfolio on a service like Digital Ocean droplets or AWS 
+
+### Hotel Redeemable Offers
+- Checks a hotel finder website like Hyatt.com for hotel room offers that can be redeemed with a point amount specified by the user
+- Requirements: Takes in user input such as a specific hotel, checkin/out dates, and point amount then displays a list of hotel room offers that can be redeemed 
+- Scalability issues to consider: Current requirements are for only for 1 website. What if the user wants to use this service to check other websites like Marriott or Hilton at the same time? How about 10 websites?
+- Tech used: Most likely MERN stack to improve my skills
 
 # Finished Projects
 ___________________
@@ -23,10 +28,7 @@ ___________________
 - API Data is sourced from the [Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
 
 ### **[Sunset Photos Web App](https://github.com/tnguyen372/Sunset-Photos):** 
-- HTML, CSS, JavaScript, and Handlebars.js for frontend
+- Frontend: HTML, CSS, JavaScript, and Handlebars.js
 - Backend: Node.js, Express.js
 - Database: MySQL 
 - [Demo Video](https://www.youtube.com/watch?v=Yx6SXT3NKZw). All app functionality works but I will need to fix the css styling issues.
-
-
-
