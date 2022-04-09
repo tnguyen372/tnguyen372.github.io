@@ -2,20 +2,22 @@
 
 # Current Projects in Development
 _________________________________
+### Gator XChange Web App
+- Simulates a buy and sell platform solely for SF State students, faculty, and staff
+- Frontend: React, Bootstrap, Axios
+- Backend: Node.js, Express.js, Multer.js, Sharp.js, Bcrypt
+- Database: MySQL
+- Deployed through AWS EC2 instance with Nginx acting as reverse proxy inside Ubuntu virtual machine
+
 ### Portfolio Website
 - Working on hosting my portfolio on a service like Digital Ocean droplets or AWS 
 
-### Hotel Redeemable Offers
-- Checks a hotel finder website like Hyatt.com for hotel room offers that can be redeemed with a point amount specified by the user
-- Requirements: Takes in user input such as a specific hotel, checkin/out dates, and point amount then displays a list of hotel room offers that can be redeemed 
-- Scalability issues to consider: Current requirements are for only for 1 website. What if the user wants to use this service to check other websites like Marriott or Hilton at the same time? How about 10 websites?
-- Tech used: Most likely MERN stack to improve my skills
 
 # Finished Projects
 ___________________
-### **[San Francisco State's New Bursar Office Website](https://dev-sfsu-bursar.pantheonsite.io/home):**
-- Developed using Drupal 8's content management system
-- [Old website](https://bursar.sfsu.edu) for comparison
+### **[San Francisco State's New Bursar Office Website](https://bursar.sfsu.edu):**
+- The new Bursar Office website I've been developing has finally been deployed live to production for students and faculty/staff to use!
+- Developed using Drupal 8's content management system and SF State's Drupal 8 Template
 
 ### **[Bay Area Marketplace Web App](https://github.com/tnguyen372/Bay-Area-Marketplace):**
 - Frontend: React and Bootstrap
