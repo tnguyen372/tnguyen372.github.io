@@ -3,7 +3,7 @@
 # Contact Me
 _________________________________
 - Email: tnguyen372@protonmail.com
-- LinkedIn: https://www.linkedin.com/in/tnguyen372
+- [LinkedIn Profile](https://www.linkedin.com/in/tnguyen372)
 
 # Current Projects in Development
 _________________________________
