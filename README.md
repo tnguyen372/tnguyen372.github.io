@@ -1,5 +1,10 @@
 ### Thomas Nguyen's Portfolio Website.
 
+# Contact Me
+_________________________________
+- Email: tnguyen372@protonmail.com
+- LinkedIn: https://www.linkedin.com/in/tnguyen372
+
 # Current Projects in Development
 _________________________________
 ### Gator XChange Web App
@@ -7,9 +12,6 @@ _________________________________
 - Frontend: React, Bootstrap, Axios
 - Backend: Node.js, Express.js, MySQL, Multer, Sharp, Bcrypt
 - Deployed through AWS EC2 instance with Nginx acting as reverse proxy inside Ubuntu virtual machine
-
-### Portfolio Website
-- Working on hosting my portfolio on a service like Digital Ocean droplets or AWS 
 
 # Finished Projects
 ___________________
