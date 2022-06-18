@@ -1,9 +1,15 @@
-### Thomas Nguyen's Portfolio Website.
+# About Me
+Hi, I'm Thomas. I am a Spring 2022 CS new graduate from SF State with experience in web development and web design. I'm currently looking for web development or software engineering opportunities but am always open in learning new technologies and trying out different things because I am early in my career. In my off time, I do my best to continue developing my programming skills through projects because there is always something for me to improve on.
+
+My past experience involves launching a redesigned bursar's office department website for SF State that went live in May 2022 for students and faculty/staff to use, setting up the foundation of web content for the newly created Engineering Success Center for SF State's School of Engineering website, and working at a startup focused on creating a social network for connecting entrepreneurs.
+
+If you'd like to get in touch with me, send me an email!
 
 # Contact Me
 _________________________________
 - Email: tnguyen372@protonmail.com
-- [LinkedIn Profile](https://www.linkedin.com/in/tnguyen372)
+- LinkedIn: [linkedin.com/in/tnguyen372](https://www.linkedin.com/in/tnguyen372)
+- GitHub: [github.com/tnguyen372](https://github.com/tnguyen372)
 
 # Current Projects in Development
 _________________________________
