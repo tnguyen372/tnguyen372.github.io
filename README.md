@@ -1,7 +1,9 @@
 # About Me
-Hi, I'm Thomas. I am a Spring 2022 CS new graduate from SF State with experience in web development and web design. I'm currently looking for web development or software engineering opportunities but am always open in learning new technologies and trying out different things because I am early in my career. In my off time, I do my best to continue developing my programming skills through projects because there is always something for me to improve on.
+Hi, I'm Thomas. I am a Spring 2022 CS new graduate from SF State with experience in web development and web design through work and projects. I'm currently looking for web development or software engineering opportunities but am always open in learning new technologies and trying out different things because I am early in my career. In my off time, I do my best to continue developing my programming skills through projects or hackathons because there is always something for me to improve on and grow.
 
-My past experience involves launching a redesigned bursar's office department website for SF State that went live over the Spring 2022 semester for students and faculty/staff to use, integrating the new Engineering Success Center into the SF State School of Engineering website, and working a summer internship at a startup focused on creating a social network to connect like-minded entrepreneurs.
+My past work experience involves launching a redesigned bursar's office department website for SF State that went live over the Spring 2022 semester for students and faculty/staff to use, integrating the new Engineering Success Center into the SF State School of Engineering website, and working a summer internship at a startup focused on creating a social network to connect like-minded entrepreneurs.
+
+I've worked on full stack web app projects leveraging technology such as React, Node.js, Express.js, TypeScript, Bootstrap, MySQL, and AWS Elastic Compute Cloud which has given me practical experience in implementing an idea from conception to completion. For each project, I had to employ analytical and critical thinking skills while being incredibly resourceful to find the information I needed to complete project features.
 
 If you'd like to get in touch with me, feel free to contact me through email or connect with me on LinkedIn!
 
@@ -25,7 +27,7 @@ Future considerations:
 
 # Finished Projects
 ___________________
-### Gator XChange Web App
+### Gator XChange Web App (Senior Captstone Project)
 - Simulates a buy and sell platform solely for SF State students, faculty, and staff
 - Deployed through AWS EC2 instance with Nginx acting as reverse proxy inside Ubuntu virtual machine
 - Frontend: React, React-Bootstrap/Bootstrap, Axios
